@@ -5,6 +5,17 @@
 
 
 @section('content')
+
+        @if(Session::has('deleted_user'));
+        <div class="alert alert-warning">
+        <p>{{session('deleted_user')}}</p>
+        </div>
+        @endif
+
+
+
+
+
 <h1>USERS</h1>
       <table class="table">
           <thead>

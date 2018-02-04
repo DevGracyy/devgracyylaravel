@@ -1,0 +1,29 @@
+[33mcommit c253978a2c068c7f51557744f7d4ebef4a7d3e35[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: DevGracyy <dev.gracyy.002@gmail.com>
+Date:   Thu Feb 1 00:21:18 2018 +0800
+
+    users 100% edit 100% -except security
+
+[33mcommit 0e25cd81958606db2a2ef1a464c9a43c8dd48c07[m
+Author: DevGracyy <dev.gracyy.002@gmail.com>
+Date:   Wed Jan 31 22:20:39 2018 +0800
+
+    create users page with photos working persist
+
+[33mcommit 291efb980c063f18aa89e380a42b77608a9132fa[m
+Author: DevGracyy <dev.gracyy.002@gmail.com>
+Date:   Wed Jan 31 21:48:36 2018 +0800
+
+    creating can create and persist w/0 photo
+
+[33mcommit 5a8ca8d91f4efed435d5952b15c38b2a978d6816[m
+Author: DevGracyy <dev.gracyy.002@gmail.com>
+Date:   Wed Jan 31 15:17:48 2018 +0800
+
+    admin master page inserted
+
+[33mcommit 7d9c2ed5778c184dc8c8096faf72fb9beea04256[m
+Author: DevGracyy <dev.gracyy.002@gmail.com>
+Date:   Sun Jan 28 22:16:58 2018 +0800
+
+    my first commit -admin views created
